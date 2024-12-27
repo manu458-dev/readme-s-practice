@@ -18,8 +18,14 @@ for instance: `![CRUNCHY CAT](https://i.pinimg.com/236x/25/c5/9b/25c59b75a14c998
 ![CRUNCHY CAT](https://i.pinimg.com/236x/25/c5/9b/25c59b75a14c99842477ba8a8c1847e8.jpg?nii=t)
 
 #### THIRD IMAGE (DRIVE IMAGE)
-**Work in progres**
 ![Example Image](https://drive.google.com/uc?export=view&id=1oB9fBX4IeZogilC1iiZPWKgMpS38JFYm)
 
+**Notes:**
+
+- **for some VSCode plugins, this may not display well**:
+![Error1](./assets/images/error1.jpg)
+
+- **but on github it will look just fine**:
+![Error1](./assets/images/success1.jpg)
 
 ***
